@@ -58,7 +58,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - IoT/cloud support for remote patient data monitoring
 - Automatic alert system for abnormal readings
