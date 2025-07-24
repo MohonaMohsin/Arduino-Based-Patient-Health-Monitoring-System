@@ -47,7 +47,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 ---
 
-## 🛠️ Project Showcase
+##  Project Showcase
 
 <!-- Image will appear here once added to images/ folder -->
 <p align="center">
