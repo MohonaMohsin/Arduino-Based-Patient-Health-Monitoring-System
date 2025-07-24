@@ -65,6 +65,6 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 - Integration with electronic health records (EHR)
 - Mobile application connectivity and encrypted data storage
 
----
+
 
 
