@@ -1,10 +1,10 @@
-# 🩺 Patient Health Monitoring System
+#  Patient Health Monitoring System
 
 An Arduino-based embedded system that continuously monitors a patient's **heart rate**, **SpO2 (blood oxygen level)**, **temperature**, and **humidity**. Designed to support affordable, home-based and remote healthcare solutions.
 
 ---
 
-## 🔧 Components Used
+##  Components Used
 
 | Component                          | Quantity |
 |-----------------------------------|----------|
@@ -17,7 +17,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 ---
 
-## 🧠 Features
+##  Features
 
 - Real-time heart rate and oxygen saturation monitoring
 - Temperature and humidity sensing
@@ -26,7 +26,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. The **MAX30100 sensor** detects heart rate and oxygen levels.
 2. The **DHT11 sensor** records temperature and humidity from the environment.
@@ -36,14 +36,14 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 ---
 
-## 🔌 Circuit Diagram
+##  Circuit Diagram
 
 <!-- Image will appear here once added to images/ folder -->
 <p align="center">
   <img src="https://github.com/MohonaMohsin/Arduino-Based-Patient-Health-Monitoring-System/blob/main/images/circuit_diagram.jpg" alt="Circuit Diagram" width="500">
 </p>
 
-<p align="center"><b>Figure 1:</b> Complete wiring and sensor connection diagram for the Patient Health Monitoring System.</p>
+<p align="center"><b>Figure 1:</b> Circuit diagram for the Patient Health Monitoring System.</p>
 
 ---
 
@@ -51,7 +51,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 <!-- Image will appear here once added to images/ folder -->
 <p align="center">
-  <img src="images/project_showcase.jpg" alt="Project Showcase" width="500">
+  <img src="https://github.com/MohonaMohsin/Arduino-Based-Patient-Health-Monitoring-System/blob/main/images/project_showcasing.jpg" alt="Project Showcase" width="500">
 </p>
 
 <p align="center"><b>Figure 2:</b> Final assembled system with fully integrated sensors, display, and enclosure.</p>
