@@ -1,4 +1,4 @@
-#  Patient Health Monitoring System
+#  Arduino-Based Patient Health Monitoring System
 
 An Arduino-based embedded system that continuously monitors a patient's **heart rate**, **SpO2 (blood oxygen level)**, **temperature**, and **humidity**. Designed to support affordable, home-based and remote healthcare solutions.
 
