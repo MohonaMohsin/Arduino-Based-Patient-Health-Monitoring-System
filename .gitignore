@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary or backup files
+*.tmp
+*.bak
+
+# Arduino compiled output
+*.hex
+*.elf
+
+# Compressed archives
+*.zip
+
+# Optional: exclude PDF reports (uncomment to use)
+# *.pdf
