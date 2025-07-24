@@ -51,7 +51,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 <!-- Image will appear here once added to images/ folder -->
 <p align="center">
-  <img src="https://github.com/MohonaMohsin/Arduino-Based-Patient-Health-Monitoring-System/blob/main/images/project_showcasing.jpg" alt="Project Showcase" width="600">
+  <img src="https://github.com/MohonaMohsin/Arduino-Based-Patient-Health-Monitoring-System/blob/main/images/project_showcasing.jpg" alt="Project Showcase" width="700">
 </p>
 
 <p align="center"><b>Figure 2:</b> Final assembled system with fully integrated sensors, display, and enclosure.</p>
