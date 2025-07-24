@@ -40,7 +40,7 @@ An Arduino-based embedded system that continuously monitors a patient's **heart 
 
 <!-- Image will appear here once added to images/ folder -->
 <p align="center">
-  <img src="images/circuit_diagram.png" alt="Circuit Diagram" width="500">
+  <img src="https://github.com/MohonaMohsin/Arduino-Based-Patient-Health-Monitoring-System/blob/main/images/circuit_diagram.jpg" alt="Circuit Diagram" width="500">
 </p>
 
 <p align="center"><b>Figure 1:</b> Complete wiring and sensor connection diagram for the Patient Health Monitoring System.</p>
